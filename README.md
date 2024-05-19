@@ -39,3 +39,13 @@
 \e Escape sequence It represents the ASCII escape character.
 \s Space Character It represents the ASCII space character.
 \d Delete Character It represents the ASCII DEL character.
+
+
+
+# Loop chapter start from here.
+1. for loop
+2. while loop
+3. do while loop
+4. nested loop
+
+### iteration means on round or 
